@@ -103,5 +103,5 @@ Home Page ![image](./client//src//assets/claireseCeramics.png)
 
 ## Links  
 
-* [Repository](https://github.com/garethtflynn/clairese-ceramics)
-* [Deployed Appplication]()
+* [Repository](https://github.com/garethtflynn/shopClaireseCeramics)
+* [Deployed Appplication](https://claireseceramics.herokuapp.com/)
