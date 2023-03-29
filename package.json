@@ -20,6 +20,8 @@
     "tailwindcss": "^3.2.4"
   },
   "dependencies": {
-    "flowbite-react": "^0.3.7"
+    "bootstrap": "^5.2.3",
+    "flowbite-react": "^0.3.7",
+    "react-bootstrap": "^2.7.2"
   }
 }
